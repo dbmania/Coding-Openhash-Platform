@@ -1,0 +1,1 @@
+// define the spot of 3rd industry production places.

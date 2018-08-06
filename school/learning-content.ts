@@ -1,0 +1,1 @@
+// this function shall manage contents from kindergarten to graduate schools for each academic field.

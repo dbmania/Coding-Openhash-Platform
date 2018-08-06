@@ -1,0 +1,3 @@
+// record transaction to ledgers and other financial statements sucha B/S, I/S, CF, RES ...
+// this function also require the private keys of both seller and buyer.
+// Trial Sheet => Income statement => Balance sheet => Cash Flow Statement => RE Statement => Financial Reports with various ratios.

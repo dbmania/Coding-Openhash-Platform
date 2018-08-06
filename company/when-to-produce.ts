@@ -1,0 +1,1 @@
+// this function shall define the production time of each kind of product.

@@ -1,0 +1,1 @@
+// this function shall define how to control various sensors.

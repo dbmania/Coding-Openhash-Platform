@@ -1,0 +1,1 @@
+// it defines how to work in medical facilities.

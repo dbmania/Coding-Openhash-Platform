@@ -1,0 +1,1 @@
+// this function evaluate the speed, the price and so on of each function. 

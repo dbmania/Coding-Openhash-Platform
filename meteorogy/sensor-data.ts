@@ -1,0 +1,1 @@
+// this function is for collecting data from sensors nationwide or worldwide.

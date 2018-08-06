@@ -1,0 +1,1 @@
+// this function defines who may reside in a safe city.

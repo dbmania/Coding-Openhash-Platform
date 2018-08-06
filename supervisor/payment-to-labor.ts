@@ -1,0 +1,1 @@
+// this function shall define how much to pay to each person or labor

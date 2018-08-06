@@ -1,0 +1,1 @@
+// define the spot of 1st industry production places.

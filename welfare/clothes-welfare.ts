@@ -1,0 +1,1 @@
+// providing basic clothes to all citizens. 

@@ -1,0 +1,1 @@
+// make communities composed of similar interests and capacities.

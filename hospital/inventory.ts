@@ -1,0 +1,1 @@
+// it controls 소모품 to be used in hospitals. 

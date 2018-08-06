@@ -1,0 +1,1 @@
+// manage all the sensors installed in a region. cctv(CNN), sound collector(Sound Analysis). 

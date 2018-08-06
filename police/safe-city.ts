@@ -1,0 +1,1 @@
+// this function shall define how to enter a safe city controlled by OP.

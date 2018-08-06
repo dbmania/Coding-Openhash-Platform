@@ -1,0 +1,1 @@
+// records tax revenue from economic entites in a sovereign.

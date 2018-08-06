@@ -1,0 +1,1 @@
+// define the spot of 2nd industry production places.

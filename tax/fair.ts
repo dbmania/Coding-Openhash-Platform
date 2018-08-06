@@ -1,0 +1,1 @@
+// this function induce consensus on what fairness is. 

@@ -1,0 +1,1 @@
+// it provides treatments to patients according to diagnosis.ts

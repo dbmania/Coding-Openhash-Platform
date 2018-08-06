@@ -1,0 +1,3 @@
+// regional division - the world, 193 nations, cities, counties
+// industrial division - 1st industry, 2nd industry ...
+// detailed industrial division - 5 classes of each industry. 

@@ -1,0 +1,1 @@
+// this function shall collect crimes from zsl
